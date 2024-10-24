@@ -94,6 +94,9 @@ def rsp_process(
       plt.close()
 
     """
+
+    print("this is my own version, if this prints we can continue")
+    
     # Sanitize input
     rsp_signal = as_vector(rsp_signal)
     methods = rsp_methods(
