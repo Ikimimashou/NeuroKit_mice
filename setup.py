@@ -50,7 +50,7 @@ test_requirements = requirements + [
 # Setup
 setup(
     # Info
-    name="neurokit2_mice",
+    name="neurokit2",
     keywords="NeuroKit2, physiology, bodily signals, Python, ECG, EDA, EMG, PPG",
     url="https://github.com/neuropsychology/NeuroKit",
     version=find_version(),
